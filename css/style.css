@@ -20,7 +20,7 @@
 .gray-img {
   filter: grayscale(100);
 }
-ul {
+main > ul {
   margin-left: auto !important;
 }
 .hover-btn {
